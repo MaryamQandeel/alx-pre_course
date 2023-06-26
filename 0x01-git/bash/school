@@ -1,1 +1,1 @@
-#!/bin/bashn echo"school"
+#!/bin/bash \n echo"school"
